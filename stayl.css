@@ -1,0 +1,142 @@
+.left img{
+    height: 20px;
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.left{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left a{
+    text-decoration: none;
+}
+
+.reght a{
+    text-decoration: none;
+}
+
+.left a{
+    color: black;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.reght a{
+    background-color: black;
+    color:  white;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 6px;
+}
+
+.car{
+    width: 1140;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.car p{
+    color: gray;
+}
+
+.ln{
+    margin-top: 30px;
+}
+
+.lm{
+    margin-top: 50px;
+}
+
+.ln h1{
+    font-size: 39px;
+}
+
+.car .lm{
+    margin-left: auto;
+}
+
+.reght{
+    margin-left: 672px;
+}
+
+.ln a{
+    background-color: rgb(39, 159, 111);
+    color: white;
+    text-decoration: none;
+    padding-left: 21px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 13px;
+    border-radius: 6px;
+}
+
+.ln p{
+    margin-bottom: 40px;
+}
+
+.how{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.eng{
+    background-color: rgb(39, 159, 111);
+    color: white;
+    padding: 15px;
+    padding-top: 3px;
+    border-radius: 5px;
+    padding-right: 28px;
+}
+
+.eng a{
+    color: white;
+}
+
+.eng p{
+    font-size: 15px;
+    color: rgb(239, 239, 239);
+}
+
+.bu{
+    display: flex;
+    gap: 220px;
+    width: 1140;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qator2{
+    border: 1px solid gray;
+    padding: 15;
+    padding-top: 3px;
+    border-radius: 5px;
+}
+
+.qator2 a{
+    color: black;
+    text-decoration: none;
+}
+
+.pop{
+    display: flex;
+    width: 1140px;
+    margin-left: auto;
+    margin-right:auto;
+    gap: 221px;
+    margin-top: 20px;
+}
